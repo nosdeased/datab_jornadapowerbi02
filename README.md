@@ -10,3 +10,5 @@ OTIF = [% In Full] * [%On Time]
 ![03](https://user-images.githubusercontent.com/63180950/216609939-9c9bd67f-337d-4e3d-8e8e-b82167a55b9e.PNG)
 ![04](https://user-images.githubusercontent.com/63180950/216610024-95512d65-60a3-4b35-a979-eaed8c9ed18a.PNG)
 
+
+https://app.powerbi.com/groups/me/reports/93a9a876-1158-4bb6-92e9-e8eb05760d02/ReportSection
