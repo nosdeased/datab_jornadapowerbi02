@@ -2,7 +2,7 @@
 Repositório criado para Jornada Power BI Dia 3
 
 Indicador-chave de desempenho:
-OTIF = [% In Full] * [%On Time]
+OTIF = [% In Full] * [% On Time]
 
 ![12](https://user-images.githubusercontent.com/63180950/216609302-2fc6bc4e-c604-45f1-bdfe-8760d0181c5c.PNG)
 ![00](https://user-images.githubusercontent.com/63180950/216609826-772f6ac2-4601-42d0-858a-a22b61501dbb.PNG)
